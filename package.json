@@ -4,7 +4,7 @@
   "description": "",
   "main": "lib/index.js",
   "bin": {
-    "con": "./bin/index.js"
+    "con": "node ./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
